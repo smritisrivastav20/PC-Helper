@@ -473,7 +473,7 @@ class Main(QMainWindow):
 
    
 app =QApplication(sys.argv)
-jarvisfy = Main()
+pchelperfy = Main()
 jarvisfy.show()
 exit(app.exec_())
 
